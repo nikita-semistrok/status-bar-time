@@ -1,6 +1,6 @@
 const vscode = require('vscode');
 const moment = require('moment');
-moment.locale('id');
+moment.locale('us');
   
 var interval, item;
 var show = false;
